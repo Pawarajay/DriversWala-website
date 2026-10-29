@@ -15,4 +15,4 @@ ssl_email: yogendra@vasifytech.com
 
 # Docker registry (GitLab) 
 registry: registry.gitlab.com
-registry_image: registry.gitlab.com/vasify/client-projects/pune-driver/pune-driver-website/pune-driver-website
+registry_image: registry.gitlab.com/vasify/client-projects/driverswala/DriversWala-website
