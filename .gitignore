@@ -26,3 +26,7 @@ dist-ssr
 
 # CRM Sub-project
 CRM/
+
+# Backend Sub-project
+backend/
+Backend/
