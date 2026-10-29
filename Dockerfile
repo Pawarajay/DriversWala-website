@@ -16,9 +16,9 @@ RUN apk add --no-cache wget && npm install -g serve
 
 COPY --from=build /app/dist ./dist
 
-EXPOSE 8038
+EXPOSE 8043
 
 HEALTHCHECK --interval=10s --timeout=5s --start-period=15s --retries=3 \
-  CMD wget --spider -q http://localhost:8038/ || exit 1
+  CMD wget --spider -q http://localhost:8043/ || exit 1
 
-CMD ["serve", "-s", "dist", "-l", "8038"]
+CMD ["serve", "-s", "dist", "-l", "8043"]

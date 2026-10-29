@@ -1,11 +1,11 @@
 # Application settings
-app_name: driver-wala-website
-app_port: 8038
+app_name: drivers-wala-website
+app_port: 8043
 health_check_path: "/"
 env: production
 
 # Domain configuration
-domain: driverwala.com
+domain: driverswala.com
 
 # Target machine (must match inventory.yml)
 target_host: vt-prod-app-02
