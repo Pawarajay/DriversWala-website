@@ -790,11 +790,11 @@ const HeroSection = () => {
             </ul>
             <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.9 }}
               className="flex flex-wrap gap-3 mb-10">
-              <a href="tel:+919762798200"
+              <a href="tel:+917756998289"
                 className="inline-flex items-center h-11 sm:h-12 px-6 sm:px-8 rounded-xl bg-[#E8A23B] text-[#1A1A1A] font-bold text-sm sm:text-base hover:opacity-90 transition-all">
                 Call Now
               </a>
-              <a href="https://wa.me/918855807122" target="_blank" rel="noopener noreferrer"
+              <a href="https://wa.me/917756998289" target="_blank" rel="noopener noreferrer"
                 className="inline-flex items-center h-11 sm:h-12 px-6 sm:px-8 rounded-xl border border-white/30 text-white font-bold text-sm sm:text-base hover:bg-white/10 transition-all">
                 WhatsApp Booking
               </a>

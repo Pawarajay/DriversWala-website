@@ -116,7 +116,7 @@ const Navbar = () => {
         {/* Desktop CTA */}
         <div className="hidden lg:flex items-center gap-3 flex-shrink-0">
           <a
-            href="tel:+919762798200"
+            href="tel:+917756998289"
             className={`flex items-center gap-2 text-[13px] font-semibold transition-colors duration-300 ${
               isLight ? "text-gray-700 hover:text-blue-600" : "text-white drop-shadow-md"
             }`}
@@ -126,7 +126,7 @@ const Navbar = () => {
             }`}>
               <Phone className="w-3.5 h-3.5" />
             </div>
-            +91 97627 98200
+            +91 77569 98289
           </a>
 
           <Button
@@ -205,13 +205,13 @@ const Navbar = () => {
                 <div className="my-2 h-px bg-gray-100" />
 
                 <a
-                  href="tel:+919762798200"
+                  href="tel:+917756998289"
                   className="flex items-center gap-3 px-4 py-3 rounded-xl text-[14px] font-semibold text-gray-700 hover:bg-gray-50"
                 >
                   <div className="w-8 h-8 rounded-lg bg-blue-100 flex items-center justify-center">
                     <Phone className="w-4 h-4 text-blue-600" />
                   </div>
-                  +91 97627 98200
+                  +91 77569 98289
                 </a>
 
                 <Button

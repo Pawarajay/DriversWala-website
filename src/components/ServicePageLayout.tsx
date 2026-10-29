@@ -134,7 +134,7 @@ const ServicePageLayout = ({ data }: { data: ServicePageData }) => (
                         </Link>
                     </Button>
                     <Button variant="heroOutline" size="lg" className="text-base px-8 rounded-xl" asChild>
-                        <a href="https://wa.me/918855807122" target="_blank" rel="noopener noreferrer">
+                        <a href="https://wa.me/917756998289" target="_blank" rel="noopener noreferrer">
                             <MessageCircle className="w-5 h-5 mr-2" /> WhatsApp
                         </a>
                     </Button>
@@ -301,12 +301,12 @@ const ServicePageLayout = ({ data }: { data: ServicePageData }) => (
                     </p>
                     <div className="flex flex-wrap justify-center gap-5">
                         <Button variant="accent" size="lg" className="shadow-cta-glow text-base px-8 h-13" asChild>
-                            <a href="tel:+919762798200">
-                                <Phone className="w-5 h-5 mr-2" /> Call +91 97627 98200
+                            <a href="tel:+917756998289">
+                                <Phone className="w-5 h-5 mr-2" /> Call +91 77569 98289
                             </a>
                         </Button>
                         <Button variant="heroOutline" size="lg" className="text-base px-8 h-13" asChild>
-                            <a href="https://wa.me/918855807122" target="_blank" rel="noopener noreferrer">
+                            <a href="https://wa.me/917756998289" target="_blank" rel="noopener noreferrer">
                                 <MessageCircle className="w-5 h-5 mr-2" /> WhatsApp Booking
                             </a>
                         </Button>
